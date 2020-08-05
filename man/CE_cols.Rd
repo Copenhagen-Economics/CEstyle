@@ -28,7 +28,7 @@ CE_cols(x)
 \references{
 %% ~put references to the literature/web site here ~
 }
-\author{
+\author{Trine Kærslund Bundsgaard
 %%  ~~who you are~~
 }
 \note{
