@@ -3,6 +3,7 @@
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Color scale constructor for CE colors
+}
 \description{
 Color ggplots in CE style. Specify palette from 1-7, depending on number og items in your plot, or use a gradient of gre og blue CE colors.
 }
