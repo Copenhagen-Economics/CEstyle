@@ -2,7 +2,8 @@
 \alias{theme_CE}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{ggplot theme in CE style}
-\description{Adding this function to ggplots, or specifying this as the general theme, makes the basic of your plots CE style.
+\description{
+Adding this function to ggplots, or specifying this as the general theme, makes the basic of your plots CE style.
 }
 \usage{
 theme_CE()

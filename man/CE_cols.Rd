@@ -1,7 +1,8 @@
 \name{CE_cols}
 \alias{CE_cols}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Function to extract CE hex colors by name
+\title{
+Function to extract CE hex colors by name
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
